@@ -145,13 +145,13 @@ python -m bot.main
 ### GIF-демо
 ![Демо UXDraft Bot](assets/output.gif)
 
-### Скриншоты
-![Telegram bot — старт](assets/1.jpeg)
-![Telegram bot — старт](assets/2.jpeg)
-![Telegram bot — старт](assets/3.jpeg)
-![Telegram bot — старт](assets/4.jpeg)
-![Telegram bot — старт](assets/5.jpeg)
-![Telegram bot — старт](assets/6.jpeg)
+### Скриншоты. Пример использования:
+<img src="assets/1.jpeg" width="400"/>
+<img src="assets/2.jpeg" width="400"/>
+<img src="assets/3.jpeg" width="400"/>
+<img src="assets/4.jpeg" width="400"/>
+<img src="assets/5.jpeg" width="400"/>
+<img src="assets/6.jpeg" width="400"/>
 
 ## Полезные команды
 

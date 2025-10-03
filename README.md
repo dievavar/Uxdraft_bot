@@ -140,16 +140,18 @@ python -m bot.main
 
 ---
 
-## Скриншоты
+## Скриншоты и демо
 
-Положите изображения в `assets/screenshots/` и вставьте их:  
+### GIF-демо
+![Демо UXDraft Bot](assets/output.gif)
 
-```markdown
-![Telegram bot — старт](assets/screenshots/bot_start.png)
-![Сгенерированный прототип — главная](assets/screenshots/prototype_home.png)
-```
-
----
+### Скриншоты
+![Telegram bot — старт](assets/1.jpeg)
+![Telegram bot — старт](assets/2.jpeg)
+![Telegram bot — старт](assets/3.jpeg)
+![Telegram bot — старт](assets/4.jpeg)
+![Telegram bot — старт](assets/5.jpeg)
+![Telegram bot — старт](assets/6.jpeg)
 
 ## Полезные команды
 

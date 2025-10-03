@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# Output files
+output/
+

@@ -1,0 +1,108 @@
+Сайт: |
+  You are a frontend developer.  
+  Generate a full HTML5 page (prototype) for a website.  
+
+  Requirements:
+  - Project type: {project}
+  - Target audience: {audience}
+  - Functions: {functions}
+  - Style: {style}
+
+  Rules:
+  - All interface text (buttons, headers, menus, labels) must be in Russian language.
+  - Start with <!DOCTYPE html><html> and end with </html>.
+  - Include <head> with <style> for inline CSS (no external files).
+  - Do NOT add explanations, comments, or Markdown — only HTML + CSS.
+
+Интернет-магазин: |
+  Generate an HTML prototype for an online shop.  
+
+  Requirements:
+  - Project type: Online store
+  - Title: "{project}"
+  - Target audience: {audience}
+  - Functions: {functions}
+  - Style: {style}
+
+  Layout must include:
+  - Header with navigation (Home, Catalog, Cart, Contact)
+  - Product grid (3 items: image, name, price, "Buy" button)
+  - Footer with contacts
+
+  IMPORTANT:
+  - Apply the style strictly according to user preferences.
+  - If specific colors are requested (e.g. "pink", "dark"), apply them.
+  - If a vibe is requested (e.g. "minimal", "business", "gaming"), reflect it.
+  - If nothing is specified — use clean minimalism.
+
+  Output only valid HTML + inline CSS.
+
+SaaS / Онлайн-сервис: |
+  Generate an HTML prototype for a SaaS / online service landing page.  
+
+  Requirements:
+  - Project type: SaaS / Online service
+  - Title: "{project}"
+  - Target audience: {audience}
+  - Functions: {functions}
+  - Style: {style}
+
+  Layout must include:
+  - Hero section with big title and call-to-action button
+  - Features section with 3 columns
+  - Testimonials block
+  - Pricing table with 3 plans
+
+  IMPORTANT:
+  - Respect the style described by the user.
+  - Examples: "retro", "gaming theme", "eco-friendly".
+  - All text and interface labels must be strictly in Russian.
+
+  Output only valid HTML + inline CSS.
+
+CRM / ERP: |
+  Generate an HTML prototype for a CRM / ERP dashboard.  
+
+  Requirements:
+  - Project type: CRM / ERP
+  - Title: "{project}"
+  - Target audience: {audience}
+  - Functions: {functions}
+  - Style: {style}
+
+  Layout must include:
+  - Sidebar navigation (Dashboard, Clients, Reports, Settings)
+  - Top bar with user profile
+  - Table with client list
+  - "Add client" button
+
+  IMPORTANT:
+  - Match colors, themes, and style according to user preferences.
+  - Examples: "dark mode with blue accents", "modern corporate", "pastel theme".
+  - All text in the interface must be in Russian.
+
+  Output only valid HTML + inline CSS.
+
+Образовательная платформа: |
+  Generate an HTML prototype for an educational platform.  
+
+  Requirements:
+  - Project type: Educational platform
+  - Title: "{project}"
+  - Target audience: {audience}
+  - Functions: {functions}
+  - Style: {style}
+
+  Layout must include:
+  - Header with logo and menu
+  - Course catalog (3 courses: title + "Enroll" button)
+  - Search bar
+  - User profile block
+
+  IMPORTANT:
+  - The design must respect the style described by the user.
+  - Examples: "fun for kids", "serious for business students", "bright and colorful".
+  - If user specifies exact colors, fonts, or references — apply them.
+  - All text must be in Russian language.
+
+  Output only valid HTML + inline CSS.

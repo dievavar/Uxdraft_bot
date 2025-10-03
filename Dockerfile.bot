@@ -1,0 +1,13 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Устанавливаем Playwright и Chromium с зависимостями
+RUN pip install playwright && playwright install --with-deps chromium
+
+COPY . .
+
+CMD ["python", "-m", "bot.main"]

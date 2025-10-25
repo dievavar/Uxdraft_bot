@@ -6,7 +6,7 @@
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://core.telegram.org/bots)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
-**Telegram-бот, который строит кликабельный UX/UI-прототип из *user story***  
+**Telegram-бот с внедрениес LLM модели, который строит кликабельный UX/UI-прототип из *user story***  
 
 Задание выполнено в рамках финала AI-Хакатона от Яндекса.
 
